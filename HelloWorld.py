@@ -35,4 +35,13 @@ if isinstance(myfloat, float) and myfloat == 10.0:
 if isinstance(myint, int) and myint == 20:
     print(f"int: {myint:d}")
 
+# List
+myList = []
+myList.append(1)
+myList.append(2)
+myList.append(3)
+
+for x in myList:
+    if x > 0:
+        print(x)
 
