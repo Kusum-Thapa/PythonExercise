@@ -45,3 +45,17 @@ for x in myList:
     if x > 0:
         print(x)
 
+# more List
+numbers = [1, 2, 3]
+strings = []
+names = ["John", "Kayam", "Paanas"]
+
+second_name = names[1]
+
+print(numbers)
+print (strings)
+print(f"The second name on the names list is : {second_name}")
+
+
+
+
